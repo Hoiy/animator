@@ -11,6 +11,7 @@
     "puppeteer": "^1.17.0"
   },
   "scripts": {
-    "dump-requests": "node scripts/dump-requests.js"
+    "dump-requests": "node scripts/dump-requests.js",
+    "dump-dom": "node scripts/dump-dom.js"
   }
 }

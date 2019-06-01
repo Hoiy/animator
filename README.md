@@ -9,5 +9,8 @@ Helper scripts that use [Puppeteer](https://github.com/GoogleChrome/puppeteer) t
 Clone this repository and run `yarn install`.
 
 ## Usage
-##### Dump all requests from a web page
+##### Dump DOM from a webpage
+`yarn dump-dom http://www.example.com`
+
+##### Dump all requests from a webpage
 `yarn dump-requests http://www.example2.com`
