@@ -1,0 +1,16 @@
+{
+  "name": "animator",
+  "version": "0.0.1",
+  "description": "Scripts that manipulate puppeteer.",
+  "main": "index.js",
+  "repository": "https://github.com/hoiy/animator",
+  "author": "Hoi",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "puppeteer": "^1.17.0"
+  },
+  "scripts": {
+    "dump-requests": "node scripts/dump-requests.js"
+  }
+}
