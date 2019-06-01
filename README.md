@@ -10,7 +10,7 @@ Clone this repository and run `yarn install`.
 
 ## Usage
 ##### Dump DOM from a webpage
-`yarn dump-dom http://www.example.com`
+`node scripts/dump-dom http://www.example.com`
 
 ##### Dump all requests from a webpage
-`yarn dump-requests http://www.example2.com`
+`node scripts/dump-requests http://www.example2.com`
